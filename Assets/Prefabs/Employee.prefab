@@ -13,8 +13,9 @@ GameObject:
   - component: {fileID: 689744249547113812}
   - component: {fileID: 4643326009252038567}
   - component: {fileID: 8606787071348981218}
+  - component: {fileID: 8581537985225793557}
   m_Layer: 6
-  m_Name: Employee1
+  m_Name: Employee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -121,5 +122,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 631e7f2a4ca762c4db52b4b080a98571, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 0}
+--- !u!114 &8581537985225793557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8304088512369427754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8856406727a9bcc4ea3e6c17ea30147c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

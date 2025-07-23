@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class EmployeeStat
 {
+    //NOTE: Add working stats as well
+
     public string name;
     public string type;
     public int damage;
