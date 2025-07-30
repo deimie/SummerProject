@@ -45,7 +45,6 @@ TagManager:
     uniqueID: 0
     locked: 0
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   m_RenderingLayers:
   - Default
   - Light Layer 1
@@ -80,14 +79,9 @@ TagManager:
   - 
   - 
 =======
-=======
->>>>>>> Stashed changes
   - name: High
     uniqueID: 1827940111
     locked: 0
   m_RenderingLayers:
   - Default
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
