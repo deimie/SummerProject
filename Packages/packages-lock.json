@@ -168,7 +168,11 @@
     "com.unity.settings-manager": {
       "version": "2.1.0",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "depth": 1,
+=======
+      "depth": 2,
+>>>>>>> Stashed changes
 =======
       "depth": 2,
 >>>>>>> Stashed changes
