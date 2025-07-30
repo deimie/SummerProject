@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
+  serializedVersion: 2
   tags: []
   layers:
   - Default
@@ -38,13 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Low
-    uniqueID: 2876802625
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< Updated upstream
   m_RenderingLayers:
   - Default
   - Light Layer 1
@@ -78,10 +74,3 @@ TagManager:
   - 
   - 
   - 
-=======
-  - name: High
-    uniqueID: 1827940111
-    locked: 0
-  m_RenderingLayers:
-  - Default
->>>>>>> Stashed changes
